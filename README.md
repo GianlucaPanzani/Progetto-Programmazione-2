@@ -1,4 +1,4 @@
-# Progetto-Programmazione-2
+# Progetto-Programmazione-2-2020 (Java)
 Progetto che simula una versione base di Social Network con le principali funzionalita' che solitamente offre (programma scritto in Java).
 
 Per eseguire il codice basta digitare da linea di comando "./exec" (nella directory dei file presenti nel progetto) per compilare ed eseguire il codice.
