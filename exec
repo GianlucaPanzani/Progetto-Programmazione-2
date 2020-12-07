@@ -1,0 +1,7 @@
+#!/bin/bash
+
+javac *.java
+javac Exceptions/*.java
+java Main
+rm *.class
+rm Exceptions/*.class
